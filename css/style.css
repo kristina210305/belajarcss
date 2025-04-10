@@ -1,0 +1,45 @@
+h1 {
+    color:aliceblue;
+    background-color: rgb(19, 130, 221);
+    text-align: center;
+}
+p {
+    color: lightgoldenrodyellow;
+    background-color: brown;
+}
+#bungaa{
+    color: black;
+    background-color: cornflowerblue;
+}
+
+.warnasatu {
+    color:bisque;
+    background-color: rgb(36, 135, 148);
+
+}
+.warnadua {
+    color: brown;
+    background-color: rgb(71, 253, 192);
+}
+.warnatiga {
+    color :black;
+    background-color: rgb(68, 68, 236);
+}
+#kotak-satu{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(245, 114, 114);
+    margin-bottom: 10px;
+}
+#kotak-dua{
+    height: 100px; ;
+    width: 400PX;
+    background-color:rgb(10, 239, 255);
+    margin-bottom: 10px;
+}
+#kotak-tiga{
+    height: 100px; ;
+    width: 100px; ;
+    background-color:rgb(24, 206, 79) ;
+    border-radius: 50%;
+}
